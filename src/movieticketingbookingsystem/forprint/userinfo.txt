@@ -1,0 +1,3 @@
+ID , FirstName , LastName , Nickname , Address , Age 
+1   /  mihir   /  patel   /  mp   /  santacruz   /  18
+2   /  mihir   /  patel   /  mp   /  vakola   /  18
